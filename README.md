@@ -10,7 +10,7 @@ Crypto is a OSINT and information gathering tool. I build this tool for ethical 
 # Installation
 ```
 https://github.com/AnonGhostTeam/Crypto.git
-cd Zombie/
+cd Crypto/
 pip3 install -r requirements.txt
 ```
 
