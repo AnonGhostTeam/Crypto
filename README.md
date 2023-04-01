@@ -18,19 +18,26 @@ pip3 install -r requirements.txt
 ```
 # Help 
 python3 crypto.py --h
-# Phone number
+
+# Phone Number
 python3 crypto.py -n <phone number>
-# Github account
+
+# Github Account
 python3 crypto.py -g <target username>
+
 # IP Address
 python3 crypto.py -i <ip address>
-# Instagram account
+
+# Instagram Account
 python3 crypto.py -ig <target username>
+
 # Check update
 python3 crypto.py --update
-# Login instagram account
+
+# Login Instagram Account
 python3 crypto.py --login -u <YOUR USERNAME> -p <YOUR PASSWORD>
-# Change instagram account
+
+# Change Instagram Account
 python3 crypto.py --change -u <YOUR USERNAME> -p <YOUR PASSWORD>
 ```
 
