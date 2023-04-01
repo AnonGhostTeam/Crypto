@@ -7,7 +7,7 @@
 Crypto is a OSINT and information gathering tool. I build this tool for ethical hacking and you can use this tool for do OSINT. In Github account and Instagram account you can find information by username.
 
 
-# Install 
+# Installation
 ```
 https://github.com/AnonGhostTeam/Crypto.git
 cd Zombie/
