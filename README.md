@@ -4,7 +4,7 @@
 [![GPLv3](https://img.shields.io/badge/license-GPLv3-blue)](https://img.shields.io/badge/license-GPLv3-blue)
 [![Python3](https://img.shields.io/badge/language-Python3-red)](https://img.shields.io/badge/language-Python3-red)
 
-Crypto is a OSINT and information gathering tool. I build this tool for ethical hacking and you can use this tool for do OSINT. In Github account and Instagram account you can find information by username.
+Crypto is a OSINT and information gathering tool. I build this tool for ethical hacking and you can use this tool for do OSINT. In Github account and Instagram account you can find informations by usernames.
 
 
 # Installation
